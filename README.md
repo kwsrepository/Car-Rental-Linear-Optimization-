@@ -1,2 +1,5 @@
-# Car-Rental-Linear-Optimization-
-This repository contains my coursework for linear optimization, focusing on finding the optimal car rental solution. The project utilizes two methods: Excel spreadsheets for data analysis and LP Solve for linear programming. Here, you'll find the relevant files and documentation detailing the approaches and results of the analysis.
+# Car Rental Problem - Linear Optimization
+This project was completed for my Linear and Discrete Optimization module, where I received a Distinction. It addresses the optimization problems outlined in sections 12.25 "Car Rental 1" and 12.26 "Car Rental 2" of the Problem Description document. For each problem, I provide solutions using both Excel spreadsheets and LP Solve. 
+
+You can find a video on my YouTube channel where I briefly explain and demonstrate the design and effectiveness of these solutions.
+video link： https://youtu.be/_IFL3NkI5f4
